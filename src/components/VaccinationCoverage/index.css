@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.vaccination-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin: 3px;
+  color: white;
+}
+
+.heading {
+  font-size: 20px;
+}
